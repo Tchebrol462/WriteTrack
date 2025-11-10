@@ -1,7 +1,7 @@
 #  WriteTrack  
 ### Smart Assignment Progress Tracker  
 
-**Figma Design:** https://igloo-swore-34400328.figma.site/
+**Figma Design:** https://www.figma.com/make/RhO9htomvBlVFw4gMM6OBr/WriteTrack-PIA?node-id=0-1&p=f&t=tJIIy5Oadp8Uoz2M-0&fullscreen=1
 
 ---
 
